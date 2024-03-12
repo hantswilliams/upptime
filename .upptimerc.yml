@@ -5,8 +5,22 @@ repo: upptime # GitHub repository name
 user-agent: hantswilliams
 
 sites: # List of endpoints to track
-  - name: SDoH Stony Brook Hospital 
+  - name: SBHS - SDoH
     url: https://sdoh.ahi-projects.com/
+  - name: SBHS - Smoking API, NY state
+    url: https://ny-smoke-api.ahi-projects.com/
+  - name: SHP - QR Code Generator 
+    url: https://qrcode.appliedhealthinformatics.com/ 
+  - name: SHP-AHI Book - Data Science for Health Informatics 
+    url: https://book.datascience.appliedhealthinformatics.com/ 
+  - name: SHP-AHI Resume Builder 
+    url: https://resume.appliedhealthinformatics.com/ 
+  - name: SHP-AHI Blog 
+    url: https://blog.appliedhealthinformatics.com/ 
+  - name: SHP-AHI-Research - Project Discover 
+    url: https://discover.appliedhealthinformatics.com/
+  - name: SHP-AHI-Research - ClinicalTrials.gov Exploration
+    url: https://trials.appliedhealthinformatics.com/ 
 
 assignees: # Users to assign downtime issues (optional)
   - hantswilliams
