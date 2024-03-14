@@ -9,6 +9,8 @@ sites: # List of endpoints to track
     url: https://sdoh.ahi-projects.com/
   - name: SBHS - Smoking API, NY state
     url: https://ny-smoke-api.ahi-projects.com/
+  - name: SHP - PA Program Analytics
+    url: https://pa-program.appliedhealthinformatics.com/
   - name: SHP - QR Code Generator 
     url: https://qrcode.appliedhealthinformatics.com/ 
   - name: SHP-AHI Book - Data Science for Health Informatics 
