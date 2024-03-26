@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.appliedhealthinformatics.com/): <!--live status--> **🟧 Partial outage**
 
-This repository contains the open-source uptime monitor and status page for [Hants Williams, PhD, RN](https://status.appliedhealthinformatics.com/), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Hants Williams, PhD, RN](https://status.appliedhealthinformatics.com/), powered by [Upptime](https://github.com/upptime/upptime). It will re-check sites every X amount of time. 
 
 [Issues](https://github.com/hantswilliams/upptime/issues) as incident reports
 [Actions](https://github.com/hantswilliams/upptime/actions) as uptime monitors
