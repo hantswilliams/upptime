@@ -40,7 +40,7 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "0 */2 * * *" # checks sites once every other hour 
+  uptime: "*/30 * * * *" # will run every 30th minute; so :00 and :30 
 
 
 
