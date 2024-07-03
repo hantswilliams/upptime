@@ -5,6 +5,8 @@ repo: upptime # GitHub repository name
 user-agent: hantswilliams
 
 sites: # List of endpoints to track
+  - name: SB - Athletics
+    url: https://athletics.appliedhealthinformatics.com/
   - name: SBHS - Falls Prevention
     url: https://longislandfallsfree.com/
   - name: SBHS - SDoH
